@@ -6,6 +6,9 @@
 
 # Zig as a C++ cross compiler
 
+> [!NOTE]
+> **TL;DR** Install Zig, create a project from this template, open it and run `zig build`
+
 This is my template for new C++ projects using Zig as the project's toolchain.
 
 One of the most underrated aspects of the Zig programming language, is its ability to compile C and C++ code. 
